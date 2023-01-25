@@ -22,6 +22,10 @@ closeBtn.addEventListener("click", function () {
 
 window.addEventListener("click", function (e) {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    console.log(e.target);
+>>>>>>> 9899649d2c55b55aac096afc3154d7cc6eeae268
 =======
     console.log(e.target);
 >>>>>>> 9899649d2c55b55aac096afc3154d7cc6eeae268
@@ -30,7 +34,10 @@ window.addEventListener("click", function (e) {
     }
 });
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9899649d2c55b55aac096afc3154d7cc6eeae268
 // const quotes = [
 //     {
 //         quote: '"The best way to find yourself is to lose yourself in the service of others."',
@@ -70,4 +77,7 @@ window.addEventListener("click", function (e) {
 //     // update previousRandom variable
 //     previousRandom = random;
 // });
+<<<<<<< HEAD
+>>>>>>> 9899649d2c55b55aac096afc3154d7cc6eeae268
+=======
 >>>>>>> 9899649d2c55b55aac096afc3154d7cc6eeae268
